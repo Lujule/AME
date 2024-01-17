@@ -1,6 +1,6 @@
 # AME
-
-![Update](https://img.shields.io/github/last-commit/Alvin-Zeng/AME?color=green&label=last-updated&logo=update&style=flat-squre) [![Contributor](https://img.shields.io/static/v1? label=by&message=Lujule&color=blue&style=flat-squre)](https://github.com/Lujule)
+![Update](https://img.shields.io/github/last-commit/Alvin-Zeng/AME?color=green&label=last-updated&logo=update&style=flat-squre) [![Contributor](https://img.shields.io/static/v1?label=by&message=Lujule&color=blue&style=flat-squre)](https://github.com/Lujule)
+ 
 
 This technique reduces the adaptation difficulty often caused by poor performance on out-of-distribution test data before adaptation.
 
