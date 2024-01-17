@@ -11,7 +11,7 @@ A curated list of temporal action localization/detection and related area (e.g. 
 Contributors: Runhao Zeng, Qi Deng, Huixuan Xu, Shuaicheng Niu, Jian Chen
 
 ## <span id = "tal"> **Dataset** </span>
-- [UCF101_noise]([https://www.crcv.ucf.edu/data/UCF101.php](https://files.icg.tugraz.at/d/3551df694e3d4d6b89da/?p=%2Fucf_corrupted_videos&mode=list))
+- [UCF101_noise](https://files.icg.tugraz.at/d/3551df694e3d4d6b89da/?p=%2Fucf_corrupted_videos&mode=list)
 - [UCF101_contrast](https://drive.google.com/file/d/13QHfzMlu8Vjoo6NtmJGiI_whejyKTCKK/view?usp=drive_link)
 
 ## <span id = "tanet-tab"> **Comparisons of test-time adaptation performance on UCF101 dataset. * video domain adaptation method.** </span>
