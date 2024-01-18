@@ -49,7 +49,7 @@ do
   done
 done
 ```
-you also can use other command in script to train different dataset
+You can also use other commands in the script folder to train different dataset
 
 
 ## <span id = "tanet-tab"> **Comparisons of test-time adaptation performance on UCF101 dataset. * video domain adaptation method.** </span>
